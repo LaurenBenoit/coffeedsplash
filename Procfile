@@ -1,1 +1,1 @@
-web: gunicorn coffeedapp.wsgi --logfile -
+web: gunicorn coffedsplash.wsgi --logfile -
